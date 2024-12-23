@@ -17,5 +17,5 @@ The script leverages the capabilities of [Hammerspoon](https://www.hammerspoon.o
 
 ## Installation
 1. Install Hammerspoon if you haven't already.
-2. Copy the script below and save it as `scroll.lua` in your `~/.hammerspoon` directory.
+2. Download the [script](https://github.com/Aniruddh1210/Middle-Click-Scroll/blob/main/init.lua) and save it as `scroll.lua` in your `~/.hammerspoon` directory.
 3. Reload the script to make it work.
